@@ -1,1 +1,1 @@
-"#astro-gk" 
+#astro-gk
